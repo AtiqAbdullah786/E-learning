@@ -1,6 +1,6 @@
 # e_learning
 
-A new Flutter project.
+Full Stack E_Learning App using Firebase | GetX | MVC
 
 ## Getting Started
 
